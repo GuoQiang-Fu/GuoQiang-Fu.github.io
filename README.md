@@ -9,8 +9,8 @@ Guoqiang FU currently works at the State Key Laboratory of Disaster Reduction in
 His research focuses on Structural Wind Engineering and System Identification.  
 
 ## Education Background
-2017.09 - Now     Purse his Ph.D degree at College of Civil Engineering, Tongji University, Shanghai, China.  
-2013.09 - 2017.07 Bachelor Degree (School of Civil Engineering and Transportation), South China University of Technology, Guangzhou, Guangdong, China.   
+2017.09 - Now     ---Pursue his Ph.D degree at College of Civil Engineering, Tongji University, Shanghai, China.  
+2013.09 - 2017.07 ---Bachelor Degree (School of Civil Engineering and Transportation), South China University of Technology, Guangzhou, Guangdong, China.   
 
 ## Publications
 1. Dynamic performance evaluation of a 492 m super high-rise building with active tuned mass dampers during four consecutive landfall typhoons within a month.  
