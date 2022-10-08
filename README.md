@@ -1,11 +1,16 @@
-## Guoqiang FU (傅国强)  
+---
+layout: default
+---
+
+# Guoqiang_FU (傅国强)  
+
 E-mail: <guoqiang_fu@foxmail.com> or <fuguoqiangtju@gmail.com>  
 Tel: +86-18019100831 or +1-8312648575  
 Address: Room 215, Wind Engineering Building, Tongji University, 1239 Siping Road, Shanghai, China 200092.  
 
 ## Brief Introduction  
 Guoqiang FU currently works at the State Key Laboratory of Disaster Reduction in Civil Engineering, Tongji University (under the supervision of Prof. Ming GU and Prof. Yong QUAN).  
-His research focuses on Structural Wind Engineering and System Identification.  
+His research focuses on Structural Wind Engineering, Aeroelastic Effect, Wind Tunnel Test, and Machine Learning in Wind Engineering.  
 
 ## Education Background
 2017.09 - Now     ---Pursue his Ph.D degree at College of Civil Engineering, Tongji University, Shanghai, China.  
