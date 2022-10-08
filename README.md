@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Guoqiang_FU (傅国强)  
 
