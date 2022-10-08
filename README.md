@@ -1,4 +1,3 @@
-# Personal Page of Guoqiang Fu    
 ## Guoqiang FU (傅国强)  
 E-mail: <guoqiang_fu@foxmail.com> or <fuguoqiangtju@gmail.com>  
 Tel: +86-18019100831 or +1-8312648575  
