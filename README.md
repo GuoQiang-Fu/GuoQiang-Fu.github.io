@@ -14,7 +14,7 @@ His research focuses on Structural Wind Engineering, Aeroelastic Effect, Wind Tu
 2013.09 - 2017.07 ---Bachelor Degree (School of Civil Engineering and Transportation), South China University of Technology, Guangzhou, Guangdong, China.   
 
 ## Publications
-1. Experimental investigation of wind effects on a 282-meter-high tower with complex aerodynamic shape based on a rigid model and multi-degree-of-freedom aeroelastic model (Under Review).
+1. Experimental investigation of wind effects on a 282-meter-high tower with complex aerodynamic shape based on a rigid model and multi-degree-of-freedom aeroelastic model. DOI: <https://doi.org/10.1016/j.istruc.2023.03.033>.
 1. Internet usage among the middle-aged and elderly: Determinants of usage and impacts on individuals’ well-being. DOI: <https://doi.org/10.1016/j.chb.2022.107538>.
 3. Dynamic performance evaluation of a 492 m super high-rise building with active tuned mass dampers during four consecutive landfall typhoons within a month. DOI:  <http://doi.org/10.1016/j.jobe.2022.105259>.  
 4. Experimental investigation of unsteady aerodynamic forces and vortex-induced aeroelastic effects of a slender structure in uniform and turbulent flows. DOI:  <http://doi.org/10.1142/S0219455423500402>.    
